@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" >
+    <listeners>
+        <listener class-name="Resources.TestngListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/anuragkumar5/Desktop/Files/HU_COW_SELENIUM_MAIN">
+        <classes>
+            <class name="TestCases.HomePageTest"></class>
+            <class name="TestCases.userSignupTest"></class>
+            <class name="TestCases.UserLoginTest"></class>
+            <class name="TestCases.ApplyFilterTest"></class>
+            <class name="TestCases.BookingPageTest"></class>
+            <class name="TestCases.addreviewtest"></class>
+            <class name="TestCases.AdminSignupTest"></class>
+            <class name="TestCases.AdminLoginTest"></class>
+            <class name="TestCases.adminTest"></class>
+        </classes>
+    </test>
+</suite>
