@@ -1,0 +1,14 @@
+.logoImg{
+    height: 80px;
+}
+.right-navbar-link{
+    margin-left: 30px;
+    font-size: large;
+}
+.navlink{
+    color: grey;
+    margin-top: 8px;
+}
+.navlink:hover{
+    color: black;
+}

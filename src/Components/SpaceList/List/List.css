@@ -1,0 +1,32 @@
+.titleRatings{
+    display: flex;
+    justify-content: space-between;
+}
+.spaceList{
+    display: flex;
+    justify-content: space-between;
+}
+.headingPerks{
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+.perksIcon{
+    width: 50px;
+    margin-right: 20px;
+}
+.hoverSpaceDiv{
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+}
+.filterBar{
+    border: 1px solid;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+
+}

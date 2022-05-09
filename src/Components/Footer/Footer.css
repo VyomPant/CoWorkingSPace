@@ -1,0 +1,15 @@
+.footerLogo{
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.footerTitle{
+    display: flex;
+    align-items: center;
+}
+.contactIcons{
+    font-size: 30px;
+    color: white;
+    padding: 5px;
+}

@@ -1,0 +1,35 @@
+.dash {
+    margin-left: 400px;
+
+}
+
+.admin {
+    margin-left: 500px;
+}
+
+.admin-login {
+    margin-left: 800px;
+}
+
+.admin-card {
+    margin-top: 200px;
+    margin-left: 400px;
+
+}
+
+.add-space {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.spaceimage {
+    min-width: 200px;
+    min-height: 900px;
+    margin-top: 70px;
+}
+
+.spaces {
+    background-color: azure;
+    margin-left: 40px;
+    margin-top: -400px;
+}

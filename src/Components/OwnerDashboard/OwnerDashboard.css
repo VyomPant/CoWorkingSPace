@@ -1,0 +1,58 @@
+.navbarOwner{
+    background-color: #f9f9f9;
+    color: rgb(74, 73, 73) ;
+}
+.loggedIn{
+    color: rgb(74, 73, 73) ;
+    display: flex;
+    align-items: center;
+}
+.ownerSidebar{
+    position: fixed;
+    top: 0;
+    height: 100%;
+    background-color:#005691;
+    width: 13%;
+}
+.sideList{
+    list-style-type: none;
+}
+.sideList > li {
+    margin-top: 70px;
+    font-size: 18px;
+}
+.sideList > li  :hover {
+    color:#ffffff;
+}
+.listItem{
+    text-decoration: none;
+    color:#b3d8f1;
+}
+.sideHeading{
+    color: white;
+    margin: 30px;
+    margin-bottom: 150px;
+}
+.ownerDashContainer{
+    display: flex;
+}
+.earningCard{
+    margin: 50px;
+    border-left: solid 5px #0087dc !important;
+}
+.bookedCard{
+    margin: 50px;
+    border-left: solid 5px #34bb56 !important;
+}
+.totalSpacesCard{
+    margin: 50px;
+    border-left: solid 5px #14c6e5 !important;
+}
+.lastSpaceCard{
+    margin: 50px;
+    border-left: solid 5px #e37f8e !important;
+}
+.ownerInfoCard{
+  display: flex;
+  justify-content: space-around;
+}

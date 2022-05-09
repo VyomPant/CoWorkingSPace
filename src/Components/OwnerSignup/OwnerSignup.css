@@ -1,0 +1,33 @@
+.OwnerSignup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+.form-container {
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+    background-color: #fafafa;
+    width: 40%;
+    box-sizing: border-box;
+    padding: 5%;
+    text-align: start;
+    height: 120vh;
+}
+
+#space-up {
+    font-size: 0.9rem;
+    padding-left: 20%;
+    padding-right: 3%;
+}
+
+.side-img-owner {
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    width: 30%;
+    height: 120vh;
+    background: url("../../assets/images/background-6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

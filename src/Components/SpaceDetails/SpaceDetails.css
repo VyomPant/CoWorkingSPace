@@ -1,0 +1,33 @@
+.mainImg{
+    width: 70%;
+    height: 500px;
+    margin-right: 50px;
+}
+.mainDetails{
+    margin-top: 30px;
+    display: flex;
+}
+.mainDetailsHeading{
+    display: flex;
+    justify-content: space-between;
+}
+.perksAddDetails{
+    width: 60%;
+}
+.perksIconsAddDetails{
+    display: flex;
+    flex-wrap: wrap;
+}
+.userImg {
+    margin-right: 15px;
+    width: 30px;
+}
+.reviewHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.ratingsDiv{
+    display: flex;
+    align-items:center;
+    font-size: 18px;
+}

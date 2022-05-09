@@ -1,0 +1,81 @@
+.section2{
+ position: absolute;
+width: 1811px;
+height: 264px;
+left: 54px;
+top: 205.5px;
+
+background: #FAFAFA;
+}
+
+.when{
+position: relative;
+width: 478px;
+
+height: 200px;
+left: 80px;
+top: 25px;
+
+
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 14px;
+}
+
+.where{
+    position: absolute;
+width: 478px;
+height: 200px;
+left: 593px;
+top: 25px;
+
+
+
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 14px;
+
+
+
+}
+
+.searching{
+position: absolute;
+width: 544px;
+height: 94px;
+left: 1224px;
+top: 75px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+
+
+input{
+width: 500px;
+height: 80px;
+}
+
+
+.where1{
+  
+    position: relative;
+    left: 150px;
+    font-size: 20px;
+    
+    
+  
+}
+ .when1{
+  position: relative;
+  left: 150px;
+  font-size: 20px;
+  
+ } 
+
+ 
+
+
+
+
+

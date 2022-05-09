@@ -1,0 +1,78 @@
+.hour{
+position: absolute;
+/* width: 778px;
+height: 197px; */
+left: 95px;
+top: 1060px;
+
+font-family: 'Roboto';
+font-style: normal;
+}
+
+.clock{
+position: absolute;
+left: 95px;
+top: 1150px;
+
+font-family: 'Roboto';
+font-style: normal;
+}
+
+.perk{
+position: absolute;
+left: 95px;
+top: 1250px;
+
+font-family: 'Roboto';
+font-style: normal;
+}
+
+.wifi{
+position: absolute;
+left: 100px;
+top: 1337px;
+font-family: 'Roboto';
+font-style: normal;
+}
+
+.plug{
+    position: absolute;
+    left: 250px;
+    top: 1337px;
+    font-family: 'Roboto';
+    font-style: normal;  
+}
+
+.washroom{
+    position: absolute;
+    left: 100px;
+    top: 1437px;
+    font-family: 'Roboto';
+    font-style: normal; 
+}
+
+.printer{
+    position: absolute;
+    left: 250px;
+    top: 1437px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.price{
+    position: absolute;
+    left: 95px;
+    top: 1500px;
+    font-family: 'Roboto';
+    font-style: normal; 
+}
+
+.rupees{
+    position: absolute;
+    left: 95px;
+    top: 1570px;
+    font-family: 'Roboto';
+    font-style: normal;
+    
+}
+

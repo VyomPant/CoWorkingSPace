@@ -1,0 +1,60 @@
+.section3{
+position: absolute;
+width: 1811px;
+height: 136px;
+left: 55px;
+top: 570px;
+
+background: #FAFAFA;
+}
+.filter{
+position: absolute;
+width: 188px;
+height: 93px;
+left: 80px;
+top: 40px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+}
+
+.timing{
+position: absolute;
+width: 445px;
+height: 66px;
+left: 331px;
+top: 30px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 14px;
+}
+
+.rating{
+    position: absolute;
+width: 445px;
+height: 66px;
+left: 875px;
+top: 30px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 14px;
+}
+
+.timing1{
+    position: relative;
+    left: 130px;
+    font-size: 25px;
+    color: #000000;
+}
+
+.rating1{
+    position: relative;
+    left: 150px;
+    font-size: 25px;
+}

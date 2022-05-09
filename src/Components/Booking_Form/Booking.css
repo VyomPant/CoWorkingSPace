@@ -1,0 +1,26 @@
+.Booking {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 5%;
+}
+
+.form-container {
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+    background-color: #fafafa;
+    width: 40%;
+    box-sizing: border-box;
+    padding: 5%;
+    text-align: start;
+    height: 120vh;
+}
+
+.space-details-container {
+    margin-left: 5%;
+}
+
+.MainHeading {
+    margin-top: 2%;
+    text-align: center;
+}

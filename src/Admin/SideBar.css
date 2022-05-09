@@ -1,0 +1,64 @@
+.cs1 {
+  position: absolute;
+  width: 280px;
+  height: 1070px;
+  left: 0px;
+  top: 0px;
+  background-color: blue;
+  font-size: larger;
+}
+
+.list {
+  list-style-type: none;
+  font-size: larger;
+  font-family: roboto;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+
+
+.addspace {
+  position: absolute;
+  margin-top: 50px;
+  color: white;
+  text-decoration: none;
+}
+
+
+.item2 {
+  position: absolute;
+  margin-top: 150px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.item3 {
+  position: absolute;
+  margin-top: 250px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.dash-board {
+  color: aliceblue;
+  font-style: normal;
+  font-family: roboto;
+  margin-left: 30px;
+}
+
+.dashboard {
+  position: relative;
+  margin-top: 100px;
+  color: white;
+  text-decoration: none;
+}
+
+.table-data {
+  max-width: 70%;
+  margin-left: 400px;
+}
