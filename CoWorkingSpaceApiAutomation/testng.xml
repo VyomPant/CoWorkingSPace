@@ -3,7 +3,7 @@
 
 <suite name="All Test Suite">
     <listeners><listener class-name="TestngListener"></listener></listeners>
-    <test verbose="2" preserve-order="true" name="C:/Users/anuragkumar5/Desktop/Files/HU_COW_SELENIUM_MAIN">
+    <test verbose="2" preserve-order="true">
         <classes>
 
             <class name="CreateSpacesTest"></class>
